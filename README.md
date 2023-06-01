@@ -6,11 +6,12 @@
 ### 2. Фотографија од кодот на функцијата и Control Flow графот
 Кодот на функцијата со додадени коментари кои ги обележуваат јазлите на дијаграмот
 
-![Kod](https://github.com/finkash/SI_2023_lab2_216150/assets/108621007/74989057-1a4a-4259-a72f-1f23f00bb7e8)
+![Kod](https://github.com/finkash/SI_2023_lab2_216150/assets/108621007/4bc8dd21-902c-40cd-978e-40d800c4f072)
+
 
 Дијаграмот
 
-![Diagram](https://github.com/finkash/SI_2023_lab2_216150/assets/108621007/73d81b51-a196-4a66-8d51-b52396049151)
+![Untitled Diagram](https://github.com/finkash/SI_2023_lab2_216150/assets/108621007/70134891-b2cd-4cd5-9ce1-c3e7b1634978)
 
 
 ### 3. Цикломатската комплекснот на графот
